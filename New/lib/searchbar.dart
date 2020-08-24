@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 // ignore: camel_case_types
 Widget searchBar() {
   return Container(
-    height: 31,
+    height: 32,
     width: double.maxFinite,
     margin: EdgeInsets.all(15),
     decoration: BoxDecoration(
